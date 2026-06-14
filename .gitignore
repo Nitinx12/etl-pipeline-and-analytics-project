@@ -16,3 +16,10 @@ __pycache__
 
 ps1/logs
 .vscode
+
+.vscode/
+
+# Logs
+logs/
+**/logs/
+*.log
