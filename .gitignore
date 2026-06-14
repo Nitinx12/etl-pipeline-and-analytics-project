@@ -15,4 +15,4 @@ __pycache__
 .env
 
 ps1/logs
-
+.vscode
